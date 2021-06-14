@@ -1,0 +1,491 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gestion Etudiants
+</name>
+</assembly>
+<members>
+<member name="T:Gestion_Etudiants.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.diskette">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.diskette__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.diskette__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.diskette1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.education">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.education__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.education__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.exchange">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.follow__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.funnel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.group_regular_108">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.homework">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.house">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.key__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.key_solid_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.key_solid_24__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.minus_regular_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.money">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.next_button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.notebook">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.power_off_regular_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.previous">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.previous__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.printer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.printer__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.profile__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.user__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.user__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.user__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.user__7_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.user__8_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.user_plus_solid_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.user_plus_solid_36">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.user_plus_solid_361">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.window_regular_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.windows_regular_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Gestion_Etudiants.My.Resources.Resources.x_regular_24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.ContenirDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.EtudiantsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.FillièreDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.InscrireDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.MatièresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.PésenceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.SalleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.UtilisateurDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.Inscription_RDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.Payement_RDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.Présence_RDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.ContenirRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.EtudiantsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.FillièreRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.InscrireRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.MatièresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.PésenceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.SalleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.UtilisateurRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.Inscription_RRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.Payement_RRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.Présence_RRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.ContenirRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.EtudiantsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.FillièreRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.InscrireRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.MatièresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.PésenceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.SalleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.UtilisateurRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.Inscription_RRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.Payement_RRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSet.Présence_RRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.ContenirTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.EtudiantsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.FillièreTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.InscrireTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.MatièresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.PésenceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.SalleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.UtilisateurTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.Inscription_RTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.Payement_RTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.Présence_RTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Gestion_Etudiants.GestionEtudiantsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Gestion_Etudiants.GestionEtudiantsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Gestion_Etudiants.GestionEtudiantsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.TableAdapterManager.UpdateAll(Gestion_Etudiants.GestionEtudiantsDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Gestion_Etudiants.GestionEtudiantsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
